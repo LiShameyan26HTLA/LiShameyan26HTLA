@@ -4,7 +4,8 @@
   <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="100" height="100" alt="octocat">
 
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=435&lines=Hi+there%2C+ I'm+LiShameyan!"alt="Greeting" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=435&lines
+Hi+there%2C+ I'm+LiShameyan!"alt="Greeting" />
   </h1>
 
 
